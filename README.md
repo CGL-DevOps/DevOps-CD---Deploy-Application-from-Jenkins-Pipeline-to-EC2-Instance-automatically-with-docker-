@@ -34,4 +34,8 @@ AWS, Jenkins, Docker, Linux, Git, Java, Maven, Docker Hub
 
 ###### Step 10: Update the Jenkins file on Deployment stage with Jenkins login EC2 server and run Java app as a container
 
-![image]()
+![image](image/Screenshot%202023-02-26%20at%207.37.42%20pm.png)
+
+###### Step 11: Update the Jenkins ip and app running port to EC2 Instance security
+
+![image](image/Screenshot%202023-02-26%20at%208.17.49%20pm.png)
